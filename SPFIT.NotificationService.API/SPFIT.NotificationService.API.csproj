@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SPFIT.NotificationService.Domain\SPFIT.NotificationService.Domain.csproj" />
+    <ProjectReference Include="..\SPFIT.NotificationService.Infrastructure\SPFIT.NotificationService.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
